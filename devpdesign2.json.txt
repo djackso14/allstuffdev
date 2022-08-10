@@ -1,0 +1,32 @@
+{
+	"users" :
+	[
+		{
+			"firstname" : "Devon",
+			"lastname" : "Jackson",
+			"age" : 26
+			"hobbies" : ["reading", "writing"]
+		},
+
+		{
+			"firstname" : "Charlotte",
+			"lastname" : "Jackson",
+			"age" : 24
+		}
+	],
+	
+	"subjects" :
+	[
+		{
+			"name" : "auto"
+			"id" : 1
+		}
+
+		{
+			"name" : "json"
+			"id" : 2
+		}
+	]
+	
+	
+}
